@@ -1,0 +1,2 @@
+# Waste-Segregator
+Arduino project
